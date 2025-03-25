@@ -6,6 +6,8 @@ Uma aplicação web para visualizar o histórico de cotações de empresas na bo
 
 Esta aplicação permite aos usuários visualizar graficamente o histórico de preços de fechamento de ações através de um ticker escolhido. Utilizando a biblioteca yfinance para obter dados históricos e Plotly para visualização interativa.
 
+Acesse: https://wgabbriel-stock-chart.streamlit.app/
+
 ## Funcionalidades
 
 - Consulta de histórico de cotações por ticker
@@ -24,8 +26,8 @@ Esta aplicação permite aos usuários visualizar graficamente o histórico de p
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/Estatistica.git
-cd Estatistica
+git clone https://github.com/WGabbriel/stock_chart_app
+cd stock_chart_app
 ```
 
 2. Instale as dependências:
